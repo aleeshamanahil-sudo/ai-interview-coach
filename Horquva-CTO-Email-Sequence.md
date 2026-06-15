@@ -1,33 +1,3 @@
-# CTO / Chief Technology Officer - Email Sequence
-
-## PERSONA PROFILE
-**Title:** Chief Technology Officer, VP of Engineering, VP of Technology  
-**Pain Points:** Technical debt, system fragmentation, team coordination, scaling infrastructure, visibility into distributed systems  
-**Motivations:** Operational efficiency, risk reduction, team productivity, intelligent automation
-
----
-
-## PRIMARY EMAIL - Subject Line Options
-
-### Subject Line 1
-"Reducing System Fragmentation Without Full Replatforming"
-
-### Subject Line 2
-"When Complexity Outpaces Your Visibility"
-
-### Subject Line 3
-"Connecting Your Distributed Systems Intelligently"
-
-### Subject Line 4
-"Technical Coordination at Scale"
-
-### Subject Line 5
-"From System Silos to Unified Operations"
-
----
-
-## PRIMARY EMAIL BODY
-
 Hi {{First Name}},
 
 As technical infrastructure scales, so does the challenge of maintaining visibility and coordination across distributed systems.
@@ -44,15 +14,14 @@ Would you be open to a brief conversation to explore how this might apply to you
 
 Best regards,
 
-**{{Your Name}}**  
-Horquva  
-www.horquva.com  
+{{Your Name}}
+Horquva
+www.horquva.com
 {{Phone Number}}
 
 ---
 
-## FOLLOW-UP EMAIL #1 (Day 3-5)
-**Subject:** Re: Technical Coordination at Scale
+## FOLLOW-UP EMAIL #1 (Send 3-5 days later)
 
 Hi {{First Name}},
 
@@ -66,13 +35,12 @@ If you're facing similar challenges with system visibility or team coordination,
 
 Would next Thursday or Friday work for a 15-minute call?
 
-Best,  
-**{{Your Name}}**
+Best,
+{{Your Name}}
 
 ---
 
-## FOLLOW-UP EMAIL #2 (Day 5-7 after Follow-Up #1)
-**Subject:** One more thing on system coordination
+## FOLLOW-UP EMAIL #2 (Send 5-7 days after Follow-Up #1)
 
 Hi {{First Name}},
 
@@ -86,26 +54,5 @@ If you'd find it valuable to see how other organizations in your space are appro
 
 Otherwise, feel free to reach out if priorities shift and this becomes more relevant.
 
-Best,  
-**{{Your Name}}**
-
----
-
-## CALL SCRIPT TALKING POINTS
-
-- **Opening:** "Thanks for making time—I know engineering priorities are packed. I'm curious about how you're currently handling visibility across {{their infrastructure type}}?"
-- **Pivot:** "The reason I mention Horquva is we've seen similar organizations struggle with the same tension you're likely feeling..."
-- **Value:** "What we've found is that most organizations don't need new infrastructure—they need better coordination of what they already have."
-- **Close:** "Would it make sense to explore this further, or is this not a priority right now?"
-
----
-
-## KEY TALKING POINTS FOR CTO ROLE
-
-✓ System reliability and incident prevention  
-✓ Cross-team visibility into distributed systems  
-✓ Reducing coordination overhead for engineering teams  
-✓ Faster decision-making with better visibility  
-✓ Scaling infrastructure without proportional complexity growth  
-✓ Integration with existing systems (no rip-and-replace)  
-✓ Real-time operational insight for critical systems
+Best,
+{{Your Name}}
