@@ -1,33 +1,3 @@
-# CFO / Chief Financial Officer - Email Sequence
-
-## PERSONA PROFILE
-**Title:** Chief Financial Officer, VP of Finance, Controller  
-**Pain Points:** Financial visibility, cost optimization opportunities, risk management, cross-departmental alignment, decision accuracy  
-**Motivations:** Cost reduction, revenue growth, risk mitigation, operational efficiency, better forecasting
-
----
-
-## PRIMARY EMAIL - Subject Line Options
-
-### Subject Line 1
-"The Hidden Cost of Operational Fragmentation"
-
-### Subject Line 2
-"Unlocking Revenue Opportunities Buried in Your Operations"
-
-### Subject Line 3
-"Better Data, Better Decisions, Better Outcomes"
-
-### Subject Line 4
-"How Operational Intelligence Improves Financial Performance"
-
-### Subject Line 5
-"From Silos to Synergy: The Financial Impact of Coordination"
-
----
-
-## PRIMARY EMAIL BODY
-
 Hi {{First Name}},
 
 Most CFOs we speak with are managing a paradox: they have abundant data, yet struggle with visibility into what's actually driving financial performance across the organization.
@@ -44,15 +14,14 @@ Would next week work for a brief conversation?
 
 Best regards,
 
-**{{Your Name}}**  
-Horquva  
-www.horquva.com  
+{{Your Name}}
+Horquva
+www.horquva.com
 {{Phone Number}}
 
 ---
 
-## FOLLOW-UP EMAIL #1 (Day 3-5)
-**Subject:** Re: The Hidden Cost of Operational Fragmentation
+## FOLLOW-UP EMAIL #1 (Send 3-5 days later)
 
 Hi {{First Name}},
 
@@ -66,13 +35,12 @@ I suspect there are similar opportunities within your organization that are curr
 
 Would Thursday or Friday work for 15 minutes?
 
-Best,  
-**{{Your Name}}**
+Best,
+{{Your Name}}
 
 ---
 
-## FOLLOW-UP EMAIL #2 (Day 5-7 after Follow-Up #1)
-**Subject:** One insight on operational efficiency
+## FOLLOW-UP EMAIL #2 (Send 5-7 days after Follow-Up #1)
 
 Hi {{First Name}},
 
@@ -84,27 +52,5 @@ We've seen organizations generate 6-figure savings within 60 days—without hiri
 
 If this resonates and you'd like to explore it, I'm available. Otherwise, feel free to reach out if priorities shift.
 
-Best,  
-**{{Your Name}}**
-
----
-
-## CALL SCRIPT TALKING POINTS
-
-- **Opening:** "Thanks for making time. I'm curious about how you're currently tracking operational efficiency across your organization?"
-- **Pivot:** "We've found that finance teams often have excellent data but limited visibility into where operational inefficiencies are hidden..."
-- **Value:** "The organizations we work with typically uncover 15-25% efficiency gains in the first 90 days—most without significant capex or hiring."
-- **Close:** "Does it make sense to explore whether similar opportunities exist in your organization?"
-
----
-
-## KEY TALKING POINTS FOR CFO ROLE
-
-✓ Hidden cost reduction opportunities (typically 15-25% in first 90 days)  
-✓ Better visibility into operational efficiency across departments  
-✓ Improved decision accuracy through better information flow  
-✓ Faster identification of inefficiencies and cost leaks  
-✓ Revenue optimization through better operational coordination  
-✓ Risk mitigation through improved visibility  
-✓ ROI improvement without major capital investment  
-✓ Forecasting accuracy improvement
+Best,
+{{Your Name}}
