@@ -1,33 +1,3 @@
-# VP / Director of Operations - Email Sequence
-
-## PERSONA PROFILE
-**Title:** VP of Operations, Director of Operations, Senior Operations Manager  
-**Pain Points:** Workflow inefficiency, manual processes, cross-team coordination, execution inconsistency, scaling challenges  
-**Motivations:** Process improvement, cost reduction, team productivity, operational consistency, scalability
-
----
-
-## PRIMARY EMAIL - Subject Line Options
-
-### Subject Line 1
-"How to Scale Operations Without Scaling Headcount"
-
-### Subject Line 2
-"Reducing Manual Work, Improving Coordination"
-
-### Subject Line 3
-"From Reactive to Proactive Operations"
-
-### Subject Line 4
-"The Operations Leaders Who Are Winning Are Doing This"
-
-### Subject Line 5
-"Workflow Automation That Actually Improves Coordination"
-
----
-
-## PRIMARY EMAIL BODY
-
 Hi {{First Name}},
 
 Every operations leader reaches a moment where they realize: we're automating individual tasks, but we're not automating the coordination between those tasks.
@@ -44,15 +14,14 @@ I'd like to understand your current operational setup and priorities. Would you 
 
 Best regards,
 
-**{{Your Name}}**  
-Horquva  
-www.horquva.com  
+{{Your Name}}
+Horquva
+www.horquva.com
 {{Phone Number}}
 
 ---
 
-## FOLLOW-UP EMAIL #1 (Day 3-5)
-**Subject:** Re: Workflow Automation That Actually Improves Coordination
+## FOLLOW-UP EMAIL #1 (Send 3-5 days later)
 
 Hi {{First Name}},
 
@@ -66,13 +35,12 @@ I suspect you're facing similar coordination challenges. If you'd like to explor
 
 Are you available for a call this week?
 
-Best,  
-**{{Your Name}}**
+Best,
+{{Your Name}}
 
 ---
 
-## FOLLOW-UP EMAIL #2 (Day 5-7 after Follow-Up #1)
-**Subject:** On operational scaling
+## FOLLOW-UP EMAIL #2 (Send 5-7 days after Follow-Up #1)
 
 Hi {{First Name}},
 
@@ -84,27 +52,5 @@ This typically yields faster results and better outcomes.
 
 If you'd find it valuable to explore this, I'm available. Otherwise, reach out if this becomes a priority.
 
-Best,  
-**{{Your Name}}**
-
----
-
-## CALL SCRIPT TALKING POINTS
-
-- **Opening:** "Thanks for the time. I'm curious—what's your biggest operational bottleneck right now?"
-- **Pivot:** "We've worked with similar operations teams that found the real constraint wasn't individual task automation—it was coordination between tasks..."
-- **Value:** "By orchestrating your existing workflows, we typically see 20-30% efficiency improvements without major process overhauls."
-- **Close:** "Would it make sense to explore whether this applies to your operation?"
-
----
-
-## KEY TALKING POINTS FOR VP/DIRECTOR OF OPERATIONS ROLE
-
-✓ Workflow orchestration and automation  
-✓ Manual process reduction (typically 40% reduction in coordination work)  
-✓ Cross-team coordination efficiency  
-✓ Execution consistency improvement  
-✓ Scaling operations without proportional hiring  
-✓ Process efficiency gains (20-30% typical improvement)  
-✓ Reducing information handoff delays  
-✓ Team productivity improvement through better coordination
+Best,
+{{Your Name}}
