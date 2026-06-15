@@ -1,33 +1,3 @@
-# COO / Chief Operations Officer - Email Sequence
-
-## PERSONA PROFILE
-**Title:** Chief Operations Officer, VP of Operations, Director of Operations  
-**Pain Points:** Siloed workflows, inconsistent execution, poor visibility across departments, scaling challenges, decision velocity  
-**Motivations:** Operational efficiency, cost reduction, execution consistency, scalable growth, cross-functional alignment
-
----
-
-## PRIMARY EMAIL - Subject Line Options
-
-### Subject Line 1
-"How Leading Operations Teams Maintain Alignment at Scale"
-
-### Subject Line 2
-"The Cost of Fragmented Operations (And How to Fix It)"
-
-### Subject Line 3
-"Operational Clarity for Fast-Growing Organizations"
-
-### Subject Line 4
-"When Execution Consistency Becomes Your Competitive Advantage"
-
-### Subject Line 5
-"Transforming Information Into Better Decisions"
-
----
-
-## PRIMARY EMAIL BODY
-
 Hi {{First Name}},
 
 There's a moment that most COOs experience as their organization scales: the moment when you realize visibility across operations has become genuinely difficult.
@@ -44,15 +14,14 @@ Would you have 15 minutes for a conversation next week?
 
 Best regards,
 
-**{{Your Name}}**  
-Horquva  
-www.horquva.com  
+{{Your Name}}
+Horquva
+www.horquva.com
 {{Phone Number}}
 
 ---
 
-## FOLLOW-UP EMAIL #1 (Day 3-5)
-**Subject:** Re: Operational Clarity for Fast-Growing Organizations
+## FOLLOW-UP EMAIL #1 (Send 3-5 days later)
 
 Hi {{First Name}},
 
@@ -68,13 +37,12 @@ I'd be curious to learn more about your current operational setup and see if the
 
 Are you available for a brief call this week?
 
-Best,  
-**{{Your Name}}**
+Best,
+{{Your Name}}
 
 ---
 
-## FOLLOW-UP EMAIL #2 (Day 5-7 after Follow-Up #1)
-**Subject:** Quick thought on operational scaling
+## FOLLOW-UP EMAIL #2 (Send 5-7 days after Follow-Up #1)
 
 Hi {{First Name}},
 
@@ -86,27 +54,5 @@ The trade-off is worth understanding, especially if you're planning to scale in 
 
 If you'd find a conversation valuable, I'm available. If not, no worries—feel free to reach out if this becomes more relevant down the road.
 
-Best,  
-**{{Your Name}}**
-
----
-
-## CALL SCRIPT TALKING POINTS
-
-- **Opening:** "Thanks for the time. I'm curious—how are you currently managing visibility across your key operational workflows?"
-- **Pivot:** "We've seen similar organizations struggle with the same challenge: teams performing well in isolation, but coordination across departments becomes the constraint..."
-- **Value:** "What we find is that most improvements don't require hiring—they require better visibility and orchestration of what you already have."
-- **Close:** "Does exploring this further make sense given your operational priorities?"
-
----
-
-## KEY TALKING POINTS FOR COO ROLE
-
-✓ Cross-departmental workflow coordination  
-✓ Execution consistency across the organization  
-✓ Real-time operational visibility  
-✓ Decision velocity improvement  
-✓ Scaling without proportional hiring  
-✓ Cost reduction opportunities (typically 15-25% in first 90 days)  
-✓ Reducing operational friction and handoff delays  
-✓ Better alignment between departments
+Best,
+{{Your Name}}
